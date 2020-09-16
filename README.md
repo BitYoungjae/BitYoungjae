@@ -1,6 +1,6 @@
 # 반갑습니다 프론트엔드 개발자 주영재입니다.
 
-현재 구직중입니다.
+- bgpWorks 재직중
 
 ## Skills
 - javascript
