@@ -13,6 +13,11 @@ Making a service that can make someone think, **"I can’t live without this"** 
     - libraries : `react`, `electron`, `reagent`, `re-frame`, `styled components`
     - tools : `webpack` `eslint`
 
+## Resume
+
+**I'm not currently looking for a job.**
+- [http://bityoungjae.surge.sh](http://bityoungjae.surge.sh)
+
 ## Skills
 ### JS
 - javascript
@@ -35,11 +40,6 @@ Making a service that can make someone think, **"I can’t live without this"** 
 ## Most Used languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BitYoungjae&langs_count=11&hide=XSLT,HTML,CSS)](https://github.com/BitYoungjae/github-readme-stats)
-
-## Resume
-
-**I'm not currently looking for a job.**
-- [http://bityoungjae.surge.sh](http://bityoungjae.surge.sh)
 
 ## Wakatime stats
 
