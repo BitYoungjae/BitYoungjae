@@ -6,8 +6,12 @@
 
 Making a service that can make someone think, **"I can’t live without this"** is my `goal`.
 
-## Company
-- BGPWorks 재직중 (2020.09~)
+## Career
+- BGPworks (2020.09~)
+  - Skills Used
+    - languages : `TypeScript`, `Clojurescript`
+    - libraries : `react`, `electron`, `reagent`, `re-frame`, `styled components`
+    - tools : `webpack` `eslint`
 
 ## Top languages
 
