@@ -6,6 +6,10 @@
 
 Making a service that can make someone think, **"I can’t live without this"** is my `goal`.
 
+## Contact
+
+- email : bityoungjae@gmail.com
+
 ## Career
 - [**OK Savings Bank**](https://www.oksavingsbank.com/) _(2015.06 ~ 2020.05)_
   - Non-development work.
