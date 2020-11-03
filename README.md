@@ -23,11 +23,14 @@ Making a service that can make someone think, **"I can’t live without this"** 
 
 ## Skills
 ### JS
-- javascript
+- javascript (ES2020 or later)
 - typescript
+- node.js
 - react
-- redux
-- redux-saga
+  - next.js
+  - redux
+  - redux-toolkit
+  - redux-saga
 - styled-components
 
 ### ClJS
