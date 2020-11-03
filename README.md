@@ -23,7 +23,7 @@ Making a service that can make someone think, **"I can’t live without this"** 
 
 ## Skills
 ### JS
-- javascript (ES2020 or later)
+- javascript _(ES2020 or later)_
 - typescript
 - node.js
 - react
