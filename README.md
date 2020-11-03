@@ -7,6 +7,8 @@
 Making a service that can make someone think, **"I can’t live without this"** is my `goal`.
 
 ## Career
+- OK Savings Bank (2015.06 ~ 2020.05)
+  - Non-development work.
 - BGPworks (2020.09~)
   - Skills Used
     - languages : `TypeScript`, `Clojurescript`
