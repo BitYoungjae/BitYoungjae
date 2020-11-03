@@ -13,20 +13,28 @@ Making a service that can make someone think, **"I can’t live without this"** 
     - libraries : `react`, `electron`, `reagent`, `re-frame`, `styled components`
     - tools : `webpack` `eslint`
 
-## Top languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BitYoungjae&langs_count=11&hide=XSLT,HTML,CSS)](https://github.com/BitYoungjae/github-readme-stats)
-
 ## Skills
+### JS
 - javascript
 - typescript
 - react
 - redux
 - redux-saga
 - styled-components
+
+### ClJS
 - clojurescript
 - reagent
 - re-frame
+
+### TOOLS
+- webpack
+- rollup
+- eslint
+
+## Most Used languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BitYoungjae&langs_count=11&hide=XSLT,HTML,CSS)](https://github.com/BitYoungjae/github-readme-stats)
 
 ## Resume
 
