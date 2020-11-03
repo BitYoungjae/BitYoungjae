@@ -33,8 +33,8 @@ Making a service that can make someone think, **"I can’t live without this"** 
   - redux-saga
 - styled-components
 
-### CLJS
-- clojurescript
+### CLJS?
+- clojure(script)?
 - reagent
 - re-frame
 
