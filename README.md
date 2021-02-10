@@ -19,6 +19,7 @@ Making a service that can make someone think, **"I can’t live without this"** 
     - languages : `TypeScript`, `Clojurescript`
     - libraries : `react`, `electron`, `reagent`, `re-frame`, `styled components`
     - tools : `webpack` `eslint`
+    - etc : openapi
 
 ## Resume
 
