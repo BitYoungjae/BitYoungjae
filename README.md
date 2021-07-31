@@ -51,10 +51,10 @@ Making a service that can make someone think, **"I can’t live without this"** 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BitYoungjae&langs_count=11&hide=XSLT,HTML,CSS)](https://github.com/BitYoungjae/github-readme-stats)
 
-## Wakatime stats
+## Wakatime Stats
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BitYoungjae)
 
-## Github stats
+## Github Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=BitYoungjae&count_private=true&show_icons=true&cache_seconds=1800&theme=react&line_height=35&custom_title=%EC%A3%BC%EC%98%81%EC%9E%AC%EC%9D%98%20%EA%B9%83%ED%97%99%20%ED%94%84%EB%A1%9C%ED%95%84%20(BitYoungjae's%20Github%20Stats))
