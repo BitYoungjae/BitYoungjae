@@ -23,7 +23,7 @@ Making a service that can make someone think, **"I can’t live without this"** 
 
 ## Resume
 
-**I'm not currently looking for a job.**
+**Currently, I'm not looking for a new job opportunity.**
 - [http://bityoungjae.surge.sh](http://bityoungjae.surge.sh) (Korean only)
 
 ## Skills
