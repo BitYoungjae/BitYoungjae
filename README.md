@@ -35,12 +35,16 @@ Making a service that can make someone think, **"I can’t live without this"** 
 ### JS
 - (type|java)script _(ES2020 or later)_
 - node.js
+- nest.js
+- prisma
 - react
   - next.js
   - redux
   - redux-toolkit
   - redux-saga
+  - zustand
 - styled-components
+- tailwindcss
 
 ### CLJS?
 - clojure(script)?
