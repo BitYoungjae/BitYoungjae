@@ -13,11 +13,16 @@ Making a service that can make someone think, **"I can’t live without this"** 
 ## Career
 - [**OK Savings Bank**](https://www.oksavingsbank.com/) _(2015.06 ~ 2020.05)_
   - Non-development work.
+- [**AnnotationAI**](https://www.annotation-ai.com) _(2022.09 ~ 2023.1)_
+  - Skills Used
+    - languages : `Typescript`
+    - libraries : `Vue.js`, `react`
 - [**BGPworks**](https://www.bgpworks.com/) _(2020.09 ~ Now)_
   - Service : [BoxHero](https://www.boxhero.io/)
   - Skills Used
     - languages : `TypeScript`, `Clojurescript`
     - libraries : `react`, `electron`, `reagent`, `re-frame`, `styled components`
+    - frameworks : `next.js`, `nest.js`
     - tools : `webpack` `eslint`
     - etc : openapi
 
