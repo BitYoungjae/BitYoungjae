@@ -11,50 +11,53 @@ Making a service that can make someone think, **"I can’t live without this"** 
 - email : bityoungjae@gmail.com
 
 ## Career
-- [**OK Savings Bank**](https://www.oksavingsbank.com/) _(2015.06 ~ 2020.05)_
-  - Non-development work.
-- [**AnnotationAI**](https://www.annotation-ai.com) _(2022.09 ~ 2023.1)_
-  - Skills Used
-    - languages : `Typescript`
-    - libraries : `vue.js`, `react`, `styled components`
-- [**BGPworks**](https://www.bgpworks.com/) _(2020.09 ~ Now)_
-  - Service : [BoxHero](https://www.boxhero.io/)
-  - Skills Used
-    - languages : `TypeScript`, `Clojurescript`
-    - libraries : `react`, `electron`, `reagent`, `re-frame`, `tailwindcss`
-    - frameworks : `next.js`, `nest.js`
-    - tools : `webpack` `eslint`
-    - etc : openapi
+- [**OK Savings Bank**](https://www.oksavingsbank.com/) _(June 2015 ~ May 2020)_
+  - Non-development role.
+- [**AnnotationAI**](https://www.annotation-ai.com) _(September 2022 ~ January 2023)_
+  - Skills Used:
+    - Languages: `TypeScript`
+    - Libraries: `Vue.js`, `React`, `Styled Components`
+- **[BoxHero](https://www.boxhero-app.com/)** _(September 2020 ~ Present)_
+  - Skills Used:
+    - Languages: `TypeScript`, `Clojure`, `ClojureScript`
+    - Libraries: `React`, `Electron`, `Reagent`, `Re-frame`, `TailwindCSS`, `Zod`
+    - Frameworks: `Next.js`, `Nest.js`
+    - Database: `PostgreSQL`, `HugSQL`, `Prisma`
+    - Others: OpenAPI
 
 ## Resume
 
-**Currently, I'm not looking for a new job opportunity.**
-- [http://bityoungjae.surge.sh](http://bityoungjae.surge.sh) (Korean only)
+- [BitYoungjae | 개발이 행복한 개발자](http://bit.ly/3RFZnvq)
 
 ## Skills
-### JS
-- (type|java)script _(ES2020 or later)_
-- node.js
-- nest.js
-- prisma
-- react
-  - next.js
-  - redux
-  - redux-toolkit
-  - redux-saga
-  - zustand
-- styled-components
-- tailwindcss
 
-### CLJS?
-- clojure(script)?
-- reagent
-- re-frame
+### JavaScript/TypeScript
+- (Type|Java)Script _(ES2020 or later)_
+- Node.js
+- Nest.js
+- Prisma
+- React
+  - Next.js
+  - Redux
+  - Redux Toolkit
+  - Redux Saga
+  - Zustand
+- Styled-components
+- TailwindCSS
+- Zod
 
-### TOOLS
-- webpack
-- rollup
-- eslint
+### Clojure(Script)?
+- Clojure
+- Clojurescript
+- Reagent
+- Re-frame
+- HugSQL
+
+### Tools
+- Webpack
+- Vite
+- Rollup
+- ESLint
 
 ## Most Used languages
 
