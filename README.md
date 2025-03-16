@@ -13,7 +13,7 @@ Making a service that can make someone think, **"I can’t live without this"** 
 ## Career
 - [**OK Savings Bank**](https://www.oksavingsbank.com/) _(June 2015 ~ May 2020)_
   - Non-development role.
-- **[BoxHero](https://www.boxhero-app.com/)** _(September 2020 ~ Present)_
+- **[BoxHero](https://www.boxhero-app.com/)** _(September 2020 ~ August 2022)_
   - Skills Used:
     - Languages: `TypeScript`, `Clojure`, `ClojureScript`
     - Libraries: `React`, `Electron`, `Reagent`, `Re-frame`, `TailwindCSS`, `Zod`
@@ -24,6 +24,13 @@ Making a service that can make someone think, **"I can’t live without this"** 
   - Skills Used:
     - Languages: `TypeScript`
     - Libraries: `Vue.js`, `React`, `Styled Components`
+- **[BoxHero](https://www.boxhero-app.com/)** _(January 2023 ~ Present)_
+  - Skills Used:
+    - Languages: `TypeScript`, `Clojure`, `ClojureScript`
+    - Libraries: `React`, `Electron`, `Reagent`, `Re-frame`, `TailwindCSS`, `Zod`
+    - Frameworks: `Next.js`, `Nest.js`
+    - Database: `PostgreSQL`, `HugSQL`, `Prisma`
+    - Others: OpenAPI
 
 ## Resume
 
