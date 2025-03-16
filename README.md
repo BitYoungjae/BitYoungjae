@@ -13,10 +13,6 @@ Making a service that can make someone think, **"I can’t live without this"** 
 ## Career
 - [**OK Savings Bank**](https://www.oksavingsbank.com/) _(June 2015 ~ May 2020)_
   - Non-development role.
-- [**AnnotationAI**](https://www.annotation-ai.com) _(September 2022 ~ January 2023)_
-  - Skills Used:
-    - Languages: `TypeScript`
-    - Libraries: `Vue.js`, `React`, `Styled Components`
 - **[BoxHero](https://www.boxhero-app.com/)** _(September 2020 ~ Present)_
   - Skills Used:
     - Languages: `TypeScript`, `Clojure`, `ClojureScript`
@@ -24,6 +20,10 @@ Making a service that can make someone think, **"I can’t live without this"** 
     - Frameworks: `Next.js`, `Nest.js`
     - Database: `PostgreSQL`, `HugSQL`, `Prisma`
     - Others: OpenAPI
+- [**AnnotationAI**](https://www.annotation-ai.com) _(September 2022 ~ January 2023)_
+  - Skills Used:
+    - Languages: `TypeScript`
+    - Libraries: `Vue.js`, `React`, `Styled Components`
 
 ## Resume
 
