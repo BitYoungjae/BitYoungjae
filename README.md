@@ -50,7 +50,7 @@ Building BoxHero - a global inventory management platform that simplifies stock 
 - Desktop: Electron, TypeScript
 - DevOps: Docker, GitHub Actions, AWS
 
-### [AnnotationAI](https://www.annotation-ai.com) · Frontend Developer
+### AnnotationAI · Frontend Developer
 
 **Sep 2022 ~ Jan 2023**
 
