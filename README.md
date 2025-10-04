@@ -2,71 +2,107 @@
 
 ![Profile View](https://en9tw80biy8gbvy.m.pipedream.net)
 
-Full-stack developer passionate about building products that users can't imagine living without.
-I embrace new challenges and pursue a vision-driven life.
+Full-stack developer who builds products users can't live without.
+Bridging the gap between functional programming and modern web development.
 
 ## 🔗 Contact
 
 - **Email**: bityoungjae@gmail.com
 - **Resume**: [BitYoungjae | 개발이 행복한 개발자](http://bit.ly/3RFZnvq)
 
-## 🚀 Side Projects
+## 💡 What I Do
 
-### [BarBrew](https://barbrew.dev)
-Browser-based barcode generator for testing and development
+I specialize in building production-grade web applications with a unique blend of functional programming (Clojure/ClojureScript) and modern TypeScript ecosystems. Currently shipping inventory management solutions used by thousands of businesses.
 
-- **Tech Stack**: TypeScript, React 19, Astro 5, Zustand, shadcn/ui, Tailwind CSS v4
-- **Features**: Multi-format barcode generation (Data Matrix, QR Code, EAN-13), GS1 AI support, CSV import, batch export (PNG/ZIP/HTML)
+**My sweet spot**: Complex state management, real-time systems, and developer tooling.
 
-## 💼 Career
+## 🚀 Featured Project
 
-### [BoxHero](https://www.boxhero-app.com/) · Full-stack Developer
-**January 2023 ~ Present** | **September 2020 ~ August 2022**
+### [BarBrew](https://barbrew.dev) · Barcode Generator
 
-- TypeScript, Clojure, ClojureScript
-- React, Next.js, Electron, Reagent, Re-frame
-- Nest.js, PostgreSQL, Prisma, HugSQL
-- TailwindCSS, Zod, OpenAPI
+Browser-based GS1 barcode generator for testing and development
+
+- **Impact**: Solves a real pain point for developers testing barcode workflows
+- **Tech Highlights**: Astro Islands Architecture, React 19, Zustand state management
+- **Features**: Multi-format generation, CSV bulk import, GS1 AI configuration, offline-capable
+- **UX**: Real-time preview, template variables, interactive HTML export
+
+## 💼 Professional Experience
+
+### [BoxHero](https://www.boxhero.io/) · Full-stack Developer
+
+**Jan 2023 ~ Present** | **Sep 2020 ~ Aug 2022**
+
+Building BoxHero - a global inventory management platform that simplifies stock control and tracking for businesses. The platform delivers real-time inventory tracking, barcode scanning, order management, and detailed analytics across web, mobile (iOS/Android), and desktop applications, serving 4000+ businesses worldwide with multi-language support
+
+**Key Achievements**:
+
+- Architected full-stack features using Clojure/ClojureScript + Re-frame
+- Built cross-platform desktop app (Electron) with 60+ GitHub stars
+- Developed PDF generation microservice handling 10k+ documents/month
+- Maintained Next.js landing page with i18n support (10+ languages)
+- Created internal CLI tools for automated i18n translation workflows
+
+**Tech Stack**:
+
+- Frontend: ClojureScript, Re-frame, React, Next.js, TailwindCSS
+- Backend: Clojure, Ring, PostgreSQL, HugSQL
+- Desktop: Electron, TypeScript
+- DevOps: Docker, GitHub Actions, AWS
 
 ### [AnnotationAI](https://www.annotation-ai.com) · Frontend Developer
-**September 2022 ~ January 2023**
 
-- TypeScript, React, Vue.js
-- Styled Components
+**Sep 2022 ~ Jan 2023**
 
-### [OK Savings Bank](https://www.oksavingsbank.com/)
-**June 2015 ~ May 2020** · Non-development role
+Built annotation tools for AI training data labeling
 
-## 🛠 Tech Stack
+- React & Vue.js development
+- TypeScript + Styled Components
 
-### Core
-- **Languages**: TypeScript, JavaScript (ES2020+), Clojure/ClojureScript
-- **Runtime**: Node.js, Deno
+## 🛠 Technical Expertise
 
-### Frontend
-- **Frameworks**: React, Next.js, Vue.js
-- **State Management**: Redux (Toolkit, Saga), Zustand, Re-frame
-- **Styling**: TailwindCSS, Styled Components
-- **Desktop**: Electron
+<img src="https://skillicons.dev/icons?i=ts,js,clojure,react,nextjs,astro,nodejs,tailwind,postgres,docker,aws,git" />
 
-### Backend
-- **Framework**: Nest.js
-- **Database**: PostgreSQL
-- **ORM**: Prisma, HugSQL
-- **API Design**: OpenAPI
+### Languages & Runtimes
 
-### DevTools
-- **Build Tools**: Vite, Webpack, Rollup
-- **Code Quality**: ESLint, Zod
+- **Primary**: TypeScript, JavaScript (ES2020+)
+- **Functional**: Clojure, ClojureScript
+- **Runtime**: Node.js 20+
 
-## 📊 GitHub Stats
+### Frontend Engineering
+
+- **Frameworks**: React 19, Next.js 15, Astro 5
+- **State**: Zustand, Redux (Toolkit/Saga), Re-frame (ClojureScript)
+- **UI/Styling**: shadcn/ui, Radix UI, Tailwind CSS v4, Framer Motion
+- **Desktop**: Electron (production apps with code signing & auto-updates)
+
+### Backend & Data
+
+- **API**: Nest.js, Hono, REST, OpenAPI
+- **Database**: PostgreSQL, Drizzle ORM, Prisma, HugSQL
+- **Queue**: Bull Queue + Redis
+
+### Developer Experience
+
+- **Build**: Vite 7, Astro, Webpack, SWC, Rollup
+- **Monorepo**: Turborepo, Nx, pnpm workspaces
+- **Quality**: TypeScript strict mode, ESLint 9, Prettier, Husky
+- **Testing**: Vitest, Jest, Playwright
+- **Validation**: Zod 4
+
+### Specialized Skills
+
+- **i18n**: i18next, custom translation tooling
+- **AI Integration**: OpenAI API, DeepSeek API
+- **PDF Generation**: @react-pdf/renderer (10k+ docs/month)
+- **CLI Tools**: Commander, Ora (published internal tools)
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BitYoungjae&langs_count=11&hide=XSLT,HTML,CSS&layout=compact&theme=react)
+![Trophy](https://github-profile-trophy.vercel.app/?username=BitYoungjae&theme=react&no-frame=true&row=1&column=6)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=BitYoungjae&theme=react)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BitYoungjae&count_private=true&show_icons=true&theme=react&line_height=35&custom_title=GitHub%20Stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BitYoungjae&theme=react)
 
 </div>
