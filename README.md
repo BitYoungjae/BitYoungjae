@@ -8,7 +8,7 @@ Bridging the gap between functional programming and modern web development.
 ## 🔗 Contact
 
 - **Email**: bityoungjae@gmail.com
-- **Resume**: [BitYoungjae | 개발이 행복한 개발자](http://bit.ly/3RFZnvq)
+- **Resume**: [BitYoungjae | 개발이 행복한 개발자](https://stupendous-candy-2bc.notion.site/BitYoungjae-1575bfc92a8449409d3d8f13cfacb84a)
 
 ## 💡 What I Do
 
