@@ -1,79 +1,72 @@
-# Hi, I'm Youngjae
+# Hi, I'm Youngjae 👋
 
 ![Profile View](https://en9tw80biy8gbvy.m.pipedream.net)
 
-`새로운 도전` 을 두려워하지 않고, `비전있는 삶` 을 추구하는 개발자 **주영재** 입니다.
+Full-stack developer passionate about building products that users can't imagine living without.
+I embrace new challenges and pursue a vision-driven life.
 
-Making a service that can make someone think, **"I can’t live without this"** is my `goal`.
+## 🔗 Contact
 
-## Contact
+- **Email**: bityoungjae@gmail.com
+- **Resume**: [BitYoungjae | 개발이 행복한 개발자](http://bit.ly/3RFZnvq)
 
-- email : bityoungjae@gmail.com
+## 🚀 Side Projects
 
-## Career
-- [**OK Savings Bank**](https://www.oksavingsbank.com/) _(June 2015 ~ May 2020)_
-  - Non-development role.
-- **[BoxHero](https://www.boxhero-app.com/)** _(September 2020 ~ August 2022)_
-  - Skills Used:
-    - Languages: `TypeScript`, `Clojure`, `ClojureScript`
-    - Libraries: `React`, `Electron`, `Reagent`, `Re-frame`, `TailwindCSS`, `Zod`
-    - Frameworks: `Next.js`, `Nest.js`
-    - Database: `PostgreSQL`, `HugSQL`, `Prisma`
-    - Others: OpenAPI
-- [**AnnotationAI**](https://www.annotation-ai.com) _(September 2022 ~ January 2023)_
-  - Skills Used:
-    - Languages: `TypeScript`
-    - Libraries: `Vue.js`, `React`, `Styled Components`
-- **[BoxHero](https://www.boxhero-app.com/)** _(January 2023 ~ Present)_
-  - Skills Used:
-    - Languages: `TypeScript`, `Clojure`, `ClojureScript`
-    - Libraries: `React`, `Electron`, `Reagent`, `Re-frame`, `TailwindCSS`, `Zod`
-    - Frameworks: `Next.js`, `Nest.js`
-    - Database: `PostgreSQL`, `HugSQL`, `Prisma`
-    - Others: OpenAPI
+### [BarBrew](https://barbrew.dev)
+Browser-based barcode generator for testing and development
 
-## Resume
+- **Tech Stack**: TypeScript, React 19, Astro 5, Zustand, shadcn/ui, Tailwind CSS v4
+- **Features**: Multi-format barcode generation (Data Matrix, QR Code, EAN-13), GS1 AI support, CSV import, batch export (PNG/ZIP/HTML)
 
-- [BitYoungjae | 개발이 행복한 개발자](http://bit.ly/3RFZnvq)
+## 💼 Career
 
-## Skills
+### [BoxHero](https://www.boxhero-app.com/) · Full-stack Developer
+**January 2023 ~ Present** | **September 2020 ~ August 2022**
 
-### JavaScript/TypeScript
-- (Type|Java)Script _(ES2020 or later)_
-- Node.js
-- Nest.js
-- Prisma
-- React
-  - Next.js
-  - Redux
-  - Redux Toolkit
-  - Redux Saga
-  - Zustand
-- Styled-components
-- TailwindCSS
-- Zod
+- TypeScript, Clojure, ClojureScript
+- React, Next.js, Electron, Reagent, Re-frame
+- Nest.js, PostgreSQL, Prisma, HugSQL
+- TailwindCSS, Zod, OpenAPI
 
-### Clojure(Script)?
-- Clojure
-- Clojurescript
-- Reagent
-- Re-frame
-- HugSQL
+### [AnnotationAI](https://www.annotation-ai.com) · Frontend Developer
+**September 2022 ~ January 2023**
 
-### Tools
-- Webpack
-- Vite
-- Rollup
-- ESLint
+- TypeScript, React, Vue.js
+- Styled Components
 
-## Most Used languages
+### [OK Savings Bank](https://www.oksavingsbank.com/)
+**June 2015 ~ May 2020** · Non-development role
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BitYoungjae&langs_count=11&hide=XSLT,HTML,CSS)](https://github.com/BitYoungjae/github-readme-stats)
+## 🛠 Tech Stack
 
-## Wakatime Stats
+### Core
+- **Languages**: TypeScript, JavaScript (ES2020+), Clojure/ClojureScript
+- **Runtime**: Node.js, Deno
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BitYoungjae)
+### Frontend
+- **Frameworks**: React, Next.js, Vue.js
+- **State Management**: Redux (Toolkit, Saga), Zustand, Re-frame
+- **Styling**: TailwindCSS, Styled Components
+- **Desktop**: Electron
 
-## Github Stats
+### Backend
+- **Framework**: Nest.js
+- **Database**: PostgreSQL
+- **ORM**: Prisma, HugSQL
+- **API Design**: OpenAPI
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=BitYoungjae&count_private=true&show_icons=true&cache_seconds=1800&theme=react&line_height=35&custom_title=%EC%A3%BC%EC%98%81%EC%9E%AC%EC%9D%98%20%EA%B9%83%ED%97%99%20%ED%94%84%EB%A1%9C%ED%95%84%20(BitYoungjae's%20Github%20Stats))
+### DevTools
+- **Build Tools**: Vite, Webpack, Rollup
+- **Code Quality**: ESLint, Zod
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BitYoungjae&langs_count=11&hide=XSLT,HTML,CSS&layout=compact&theme=react)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=BitYoungjae&theme=react)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BitYoungjae&count_private=true&show_icons=true&theme=react&line_height=35&custom_title=GitHub%20Stats)
+
+</div>
