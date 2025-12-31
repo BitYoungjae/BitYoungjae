@@ -15,17 +15,6 @@ I build production-grade web applications using functional programming (Clojure/
 
 **Focused on**: Complex state management, real-time systems, developer tooling, and optimizing keyboard-centric workflows.
 
-## 🚀 Featured Project
-
-### [BarBrew](https://barbrew.dev) · Barcode Generator
-
-Browser-based GS1 barcode generator for testing and development
-
-- **Impact**: Solves a real pain point for developers testing barcode workflows
-- **Tech Highlights**: Astro Islands Architecture, React 19, Zustand state management
-- **Features**: Multi-format generation, CSV bulk import, GS1 AI configuration, offline-capable
-- **UX**: Real-time preview, template variables, interactive HTML export
-
 ## 💼 Professional Experience
 
 ### [BoxHero](https://www.boxhero.io/) · Full-stack Developer
@@ -65,6 +54,36 @@ Built annotation tools for AI training data labeling
 
 - React & Vue.js development
 - TypeScript + Styled Components
+
+## 🚀 Featured Projects
+
+### [BarBrew](https://barbrew.dev) · Barcode Generator
+
+Browser-based GS1 barcode generator for testing and development
+
+- **Tech**: Astro Islands, React 19, Zustand
+- **Features**: Multi-format generation, CSV bulk import, GS1 AI configuration, offline-capable
+
+### [Claude Code Marketplace](https://github.com/BitYoungjae/marketplace) · Plugin Ecosystem
+
+A Claude Code plugin marketplace with community-maintained extensions
+
+- **Dokhak**: Automated learning resource creation with domain-specific content generation
+- **nvim-doctor**: AI-powered Neovim configuration diagnostics and troubleshooting
+
+### [Claude Code Statusline](https://github.com/BitYoungjae/byj-cc-statusline) · Developer Tool
+
+Lightweight statusline plugin for Claude Code displaying context usage, Git status, and model info
+
+- **Tech**: Shell/Bash, jq
+- **Features**: Context fuel gauge with color coding, Git branch indicators, zero dependencies
+
+### [bityoungjae.nvim](https://github.com/BitYoungjae/bityoungjae.nvim) · Neovim Colorscheme
+
+Personal dark colorscheme optimized for Clojure, TypeScript, and Markdown
+
+- **Tech**: Lua, Neovim 0.8+
+- **Features**: Soft pastel palette, 21+ plugin support, Lualine integration
 
 ## 🛠 Technical Expertise
 
