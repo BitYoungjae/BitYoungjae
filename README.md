@@ -2,8 +2,8 @@
 
 ![Profile View](https://en9tw80biy8gbvy.m.pipedream.net)
 
-Full-stack developer who builds products users can't live without.
-Bridging the gap between functional programming and modern web development.
+Full-stack developer with a passion for functional programming and keyboard-driven workflows.
+Currently building inventory management solutions at BoxHero, while exploring systems programming with Rust and Go.
 
 ## 🔗 Contact
 
@@ -12,9 +12,9 @@ Bridging the gap between functional programming and modern web development.
 
 ## 💡 What I Do
 
-I specialize in building production-grade web applications with a unique blend of functional programming (Clojure/ClojureScript) and modern TypeScript ecosystems. Currently shipping inventory management solutions used by thousands of businesses.
+I build production-grade web applications using functional programming (Clojure/ClojureScript) and modern TypeScript ecosystems. Working on Arch Linux with Neovim as my primary development environment.
 
-**My sweet spot**: Complex state management, real-time systems, and developer tooling.
+**Focused on**: Complex state management, real-time systems, developer tooling, and optimizing keyboard-centric workflows.
 
 ## 🚀 Featured Project
 
@@ -38,8 +38,16 @@ Building BoxHero - a global inventory management platform that simplifies stock 
 **Key Achievements**:
 
 - Architected full-stack features using Clojure/ClojureScript + Re-frame
-- Built cross-platform desktop app (Electron) with 60+ GitHub stars
-- Developed PDF generation microservice handling 10k+ documents/month
+- Implemented advanced inventory tracking system (serial numbers, batch numbers, expiration dates)
+- Built order/return management system with custom invoice design and print sessions
+- Executed zero-downtime database schema migrations with dual-write patterns
+- Developed Webhook and Public API systems with idempotency support
+- Built cross-platform desktop app (Electron)
+- Built [Slack app integration](https://bgpworks.slack.com/marketplace/A06AY460J8N-boxhero)
+- Built canvas-based label designer with 112+ barcode formats, QR codes, and drag-and-drop editing (Konva + React)
+- Developed barcode/QR printing service and HID scanner library for web
+- Developed PDF microservice using @react-pdf/renderer for server-side document generation
+- Built document rendering service with browser-based print optimization for invoices, transactions, and inventory reports
 - Maintained Next.js landing page with i18n support (10+ languages)
 - Created internal CLI tools for automated i18n translation workflows
 
@@ -93,6 +101,7 @@ Built annotation tools for AI training data labeling
 ### Specialized Skills
 
 - **i18n**: i18next, custom translation tooling
-- **AI Integration**: OpenAI API, DeepSeek API
+- **AI Integration**: OpenAI API, DeepSeek API, [Claude Code plugins](https://github.com/BitYoungjae/marketplace)
 - **PDF Generation**: @react-pdf/renderer (10k+ docs/month)
 - **CLI Tools**: Commander, Ora (published internal tools)
+- **Neovim**: [Custom colorscheme](https://github.com/BitYoungjae/bityoungjae.nvim)
