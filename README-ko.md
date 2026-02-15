@@ -46,6 +46,10 @@ React, Vue.js, TypeScript로 AI 데이터 라벨링을 위한 어노테이션 �
 
 마음에 드는걸 못 찾아서 직접 만들어서 잘 쓰고 있습니다.
 
+- [ChalKak](https://github.com/BitYoungjae/ChalKak):
+  Hyprland에서 스크린샷 작업을 제대로 쓰고 싶어서, 여러 스크립트를 엮는 방식 대신 하나의 도구처럼 동작하게 Rust로 만들었습니다.
+  미리보기 중심 캡처 흐름, 경량 주석 편집기(블러/펜/화살표/사각형/크롭/텍스트), 키보드 중심 UX, 테마/키바인딩 커스터마이징, AUR 배포용 릴리즈 패키징까지 포함했습니다.
+
 - [gitkkal-skills](https://github.com/BitYoungjae/gitkkal-skills):
   AI 코딩 어시스턴트로 작업하다 보면 브랜치 이름, 커밋 메시지, PR 구조가 들쭉날쭉해집니다.
   브랜치 생성부터 PR 작성까지 Git 워크플로우를 일관되게 잡아주는 스킬 모음입니다. 처음에는 Claude Code 플러그인으로 만들었는데, Codex도 쓰기 시작하면서 특정 에이전트에 종속되지 않는 표준 스킬 형태로 다시 만들었습니다.

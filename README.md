@@ -46,6 +46,10 @@ Built annotation interfaces for AI data labeling with React, Vue.js, and TypeScr
 
 Couldn't find what I wanted, so I made my own. I use all of them.
 
+- [ChalKak](https://github.com/BitYoungjae/ChalKak):
+  I wanted screenshots on Hyprland to feel like a complete product, not a pile of scripts.
+  Built a preview-first Wayland capture tool in Rust with a lightweight annotation editor (blur, pen, arrow, rectangle, crop, text), keyboard-first flow, configurable theme/keybindings, and release packaging for AUR.
+
 - [gitkkal-skills](https://github.com/BitYoungjae/gitkkal-skills):
   Working with AI coding assistants, branch names, commit messages, and PR structure tend to get inconsistent.
   This skill set keeps the entire Git workflow — from branch creation to PR authoring — clean and uniform. Originally built as a Claude Code plugin, then restructured into standard Agent Skills when I started using Codex too.
