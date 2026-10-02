@@ -59,7 +59,7 @@ React, Vue.js, TypeScript로 AI 데이터 라벨링을 위한 어노테이션 �
   독학 자료 생성, Neovim 진단, Obsidian 시각화, Git 자동화, Linux 테마 통합 — 한 곳에서 설치하고 관리할 수 있게 마켓플레이스로 묶었습니다.
 
 - [mpvpaper-rs](https://github.com/BitYoungjae/mpvpaper-rs):
-  Wayland 데스크탑에서 모션 월페이퍼를 쓰고 싶었습니다. 기존 mpvpaper가 메모리 누수 문제가 있어서 Rust로 새로 만들었는데 알고보니 전혀 엉뚱한 곳에서 누수가 생기는거라(통제가 불가능한 외부 영역) 여전히 누수가 발생하고 있습니다. 이왕 작업한게 아까워서 AUR 패키지로 배포는 해뒀습니다. ㅎㅎ
+  Wayland 데스크탑에서 모션 월페이퍼를 쓰고 싶었습니다. 기존 mpvpaper가 메모리 누수 문제가 있어서 Rust로 새로 만들었는데 알고보니 전혀 엉뚱한 곳에서 누수가 생기는거라(통제가 불가능한 외부 영역) 여전히 누수가 발생하고 있습니다. 이왕 작업한게 아까워서 AUR 패키지로 배포는 해뒀습니다. ㅎㅎ (추신: 최근에 opus인지 sonnet인지가 해결함)
 
 - [garak](https://github.com/BitYoungjae/garak):
   Hyprland + Waybar 환경에서 Spotify로 음악을 듣는데.. 뭔가 재생 컨트롤 하기가 불편해서 GTK4와 TypeScript로 앨범 아트, 재생 컨트롤, 진행률 바를 갖춘 MPRIS 팝업을 직접 만들었습니다.
